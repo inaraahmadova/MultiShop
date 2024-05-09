@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "TPLN/qQcURI+6Ax/maF4EL5wa65AsRgnYWFeYKk/tH4=",
+  "Hash": "hQxYT1Bsx5DZ63tZ0Bwteww94zyxJpZwbnPcD5MzA7g=",
   "Source": "MultiShop",
   "BasePath": "_content/MultiShop",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "MultiShop\\wwwroot",
       "Source": "MultiShop",
-      "ContentRoot": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\",
       "BasePath": "_content/MultiShop",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\assets\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\assets\\css\\bootstrap.css",
       "SourceId": "MultiShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\",
       "BasePath": "_content/MultiShop",
       "RelativePath": "assets/css/bootstrap.css",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\assets\\css\\bootstrap.min.css",
       "SourceId": "MultiShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\",
       "BasePath": "_content/MultiShop",
       "RelativePath": "assets/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\assets\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\assets\\css\\bootstrap-grid.css",
       "SourceId": "MultiShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\",
       "BasePath": "_content/MultiShop",
       "RelativePath": "assets/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\assets\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\assets\\css\\bootstrap-grid.min.css",
       "SourceId": "MultiShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\",
       "BasePath": "_content/MultiShop",
       "RelativePath": "assets/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\assets\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\assets\\css\\bootstrap-reboot.css",
       "SourceId": "MultiShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\",
       "BasePath": "_content/MultiShop",
       "RelativePath": "assets/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\assets\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\assets\\css\\bootstrap-reboot.min.css",
       "SourceId": "MultiShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\",
       "BasePath": "_content/MultiShop",
       "RelativePath": "assets/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\assets\\css\\style.css",
+      "Identity": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\assets\\css\\style.css",
       "SourceId": "MultiShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\",
       "BasePath": "_content/MultiShop",
       "RelativePath": "assets/css/style.css",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\assets\\css\\style.min.css",
+      "Identity": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\assets\\css\\style.min.css",
       "SourceId": "MultiShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\",
       "BasePath": "_content/MultiShop",
       "RelativePath": "assets/css/style.min.css",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\style.min.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\assets\\img\\carousel-1.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\assets\\img\\carousel-1.jpg",
       "SourceId": "MultiShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\",
       "BasePath": "_content/MultiShop",
       "RelativePath": "assets/img/carousel-1.jpg",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\carousel-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\assets\\img\\carousel-2.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\assets\\img\\carousel-2.jpg",
       "SourceId": "MultiShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\",
       "BasePath": "_content/MultiShop",
       "RelativePath": "assets/img/carousel-2.jpg",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\carousel-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\assets\\img\\carousel-3.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\assets\\img\\carousel-3.jpg",
       "SourceId": "MultiShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\",
       "BasePath": "_content/MultiShop",
       "RelativePath": "assets/img/carousel-3.jpg",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\carousel-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\assets\\img\\cat-1.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\assets\\img\\cat-1.jpg",
       "SourceId": "MultiShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\",
       "BasePath": "_content/MultiShop",
       "RelativePath": "assets/img/cat-1.jpg",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\cat-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\assets\\img\\cat-2.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\assets\\img\\cat-2.jpg",
       "SourceId": "MultiShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\",
       "BasePath": "_content/MultiShop",
       "RelativePath": "assets/img/cat-2.jpg",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\cat-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\assets\\img\\cat-3.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\assets\\img\\cat-3.jpg",
       "SourceId": "MultiShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\",
       "BasePath": "_content/MultiShop",
       "RelativePath": "assets/img/cat-3.jpg",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\cat-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\assets\\img\\cat-4.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\assets\\img\\cat-4.jpg",
       "SourceId": "MultiShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\",
       "BasePath": "_content/MultiShop",
       "RelativePath": "assets/img/cat-4.jpg",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\cat-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\assets\\img\\offer-1.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\assets\\img\\offer-1.jpg",
       "SourceId": "MultiShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\",
       "BasePath": "_content/MultiShop",
       "RelativePath": "assets/img/offer-1.jpg",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\offer-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\assets\\img\\offer-2.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\assets\\img\\offer-2.jpg",
       "SourceId": "MultiShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\",
       "BasePath": "_content/MultiShop",
       "RelativePath": "assets/img/offer-2.jpg",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\offer-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\assets\\img\\payments.png",
+      "Identity": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\assets\\img\\payments.png",
       "SourceId": "MultiShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\",
       "BasePath": "_content/MultiShop",
       "RelativePath": "assets/img/payments.png",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\payments.png"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\assets\\img\\product-1.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\assets\\img\\product-1.jpg",
       "SourceId": "MultiShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\",
       "BasePath": "_content/MultiShop",
       "RelativePath": "assets/img/product-1.jpg",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\product-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\assets\\img\\product-2.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\assets\\img\\product-2.jpg",
       "SourceId": "MultiShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\",
       "BasePath": "_content/MultiShop",
       "RelativePath": "assets/img/product-2.jpg",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\product-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\assets\\img\\product-3.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\assets\\img\\product-3.jpg",
       "SourceId": "MultiShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\",
       "BasePath": "_content/MultiShop",
       "RelativePath": "assets/img/product-3.jpg",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\product-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\assets\\img\\product-4.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\assets\\img\\product-4.jpg",
       "SourceId": "MultiShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\",
       "BasePath": "_content/MultiShop",
       "RelativePath": "assets/img/product-4.jpg",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\product-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\assets\\img\\product-5.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\assets\\img\\product-5.jpg",
       "SourceId": "MultiShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\",
       "BasePath": "_content/MultiShop",
       "RelativePath": "assets/img/product-5.jpg",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\product-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\assets\\img\\product-6.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\assets\\img\\product-6.jpg",
       "SourceId": "MultiShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\",
       "BasePath": "_content/MultiShop",
       "RelativePath": "assets/img/product-6.jpg",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\product-6.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\assets\\img\\product-7.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\assets\\img\\product-7.jpg",
       "SourceId": "MultiShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\",
       "BasePath": "_content/MultiShop",
       "RelativePath": "assets/img/product-7.jpg",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\product-7.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\assets\\img\\product-8.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\assets\\img\\product-8.jpg",
       "SourceId": "MultiShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\",
       "BasePath": "_content/MultiShop",
       "RelativePath": "assets/img/product-8.jpg",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\product-8.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\assets\\img\\product-9.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\assets\\img\\product-9.jpg",
       "SourceId": "MultiShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\",
       "BasePath": "_content/MultiShop",
       "RelativePath": "assets/img/product-9.jpg",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\product-9.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\assets\\img\\user.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\assets\\img\\user.jpg",
       "SourceId": "MultiShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\",
       "BasePath": "_content/MultiShop",
       "RelativePath": "assets/img/user.jpg",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\user.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\assets\\img\\vendor-1.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\assets\\img\\vendor-1.jpg",
       "SourceId": "MultiShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\",
       "BasePath": "_content/MultiShop",
       "RelativePath": "assets/img/vendor-1.jpg",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\vendor-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\assets\\img\\vendor-2.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\assets\\img\\vendor-2.jpg",
       "SourceId": "MultiShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\",
       "BasePath": "_content/MultiShop",
       "RelativePath": "assets/img/vendor-2.jpg",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\vendor-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\assets\\img\\vendor-3.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\assets\\img\\vendor-3.jpg",
       "SourceId": "MultiShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\",
       "BasePath": "_content/MultiShop",
       "RelativePath": "assets/img/vendor-3.jpg",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\vendor-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\assets\\img\\vendor-4.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\assets\\img\\vendor-4.jpg",
       "SourceId": "MultiShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\",
       "BasePath": "_content/MultiShop",
       "RelativePath": "assets/img/vendor-4.jpg",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\vendor-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\assets\\img\\vendor-5.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\assets\\img\\vendor-5.jpg",
       "SourceId": "MultiShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\",
       "BasePath": "_content/MultiShop",
       "RelativePath": "assets/img/vendor-5.jpg",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\vendor-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\assets\\img\\vendor-6.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\assets\\img\\vendor-6.jpg",
       "SourceId": "MultiShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\",
       "BasePath": "_content/MultiShop",
       "RelativePath": "assets/img/vendor-6.jpg",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\vendor-6.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\assets\\img\\vendor-7.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\assets\\img\\vendor-7.jpg",
       "SourceId": "MultiShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\",
       "BasePath": "_content/MultiShop",
       "RelativePath": "assets/img/vendor-7.jpg",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\vendor-7.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\assets\\img\\vendor-8.jpg",
+      "Identity": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\assets\\img\\vendor-8.jpg",
       "SourceId": "MultiShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\",
       "BasePath": "_content/MultiShop",
       "RelativePath": "assets/img/vendor-8.jpg",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\vendor-8.jpg"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\assets\\js\\main.js",
+      "Identity": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\assets\\js\\main.js",
       "SourceId": "MultiShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\",
       "BasePath": "_content/MultiShop",
       "RelativePath": "assets/js/main.js",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\main.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\assets\\lib\\animate\\animate.min.css",
+      "Identity": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\assets\\lib\\animate\\animate.min.css",
       "SourceId": "MultiShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\",
       "BasePath": "_content/MultiShop",
       "RelativePath": "assets/lib/animate/animate.min.css",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\lib\\animate\\animate.min.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\assets\\lib\\easing\\easing.js",
+      "Identity": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\assets\\lib\\easing\\easing.js",
       "SourceId": "MultiShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\",
       "BasePath": "_content/MultiShop",
       "RelativePath": "assets/lib/easing/easing.js",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\lib\\easing\\easing.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\assets\\lib\\easing\\easing.min.js",
+      "Identity": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\assets\\lib\\easing\\easing.min.js",
       "SourceId": "MultiShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\",
       "BasePath": "_content/MultiShop",
       "RelativePath": "assets/lib/easing/easing.min.js",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\lib\\easing\\easing.min.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\assets\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "Identity": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\assets\\lib\\owlcarousel\\assets\\ajax-loader.gif",
       "SourceId": "MultiShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\",
       "BasePath": "_content/MultiShop",
       "RelativePath": "assets/lib/owlcarousel/assets/ajax-loader.gif",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "Identity": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.carousel.css",
       "SourceId": "MultiShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\",
       "BasePath": "_content/MultiShop",
       "RelativePath": "assets/lib/owlcarousel/assets/owl.carousel.css",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.carousel.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "Identity": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
       "SourceId": "MultiShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\",
       "BasePath": "_content/MultiShop",
       "RelativePath": "assets/lib/owlcarousel/assets/owl.carousel.min.css",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "Identity": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.css",
       "SourceId": "MultiShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\",
       "BasePath": "_content/MultiShop",
       "RelativePath": "assets/lib/owlcarousel/assets/owl.theme.default.css",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "Identity": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
       "SourceId": "MultiShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\",
       "BasePath": "_content/MultiShop",
       "RelativePath": "assets/lib/owlcarousel/assets/owl.theme.default.min.css",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "Identity": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.css",
       "SourceId": "MultiShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\",
       "BasePath": "_content/MultiShop",
       "RelativePath": "assets/lib/owlcarousel/assets/owl.theme.green.css",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "Identity": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
       "SourceId": "MultiShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\",
       "BasePath": "_content/MultiShop",
       "RelativePath": "assets/lib/owlcarousel/assets/owl.theme.green.min.css",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "Identity": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.video.play.png",
       "SourceId": "MultiShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\",
       "BasePath": "_content/MultiShop",
       "RelativePath": "assets/lib/owlcarousel/assets/owl.video.play.png",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.video.play.png"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\assets\\lib\\owlcarousel\\LICENSE",
+      "Identity": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\assets\\lib\\owlcarousel\\LICENSE",
       "SourceId": "MultiShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\",
       "BasePath": "_content/MultiShop",
       "RelativePath": "assets/lib/owlcarousel/LICENSE",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\lib\\owlcarousel\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\assets\\lib\\owlcarousel\\owl.carousel.js",
+      "Identity": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\assets\\lib\\owlcarousel\\owl.carousel.js",
       "SourceId": "MultiShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\",
       "BasePath": "_content/MultiShop",
       "RelativePath": "assets/lib/owlcarousel/owl.carousel.js",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\lib\\owlcarousel\\owl.carousel.js"
     },
     {
-      "Identity": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\assets\\lib\\owlcarousel\\owl.carousel.min.js",
+      "Identity": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\assets\\lib\\owlcarousel\\owl.carousel.min.js",
       "SourceId": "MultiShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\MultiShop\\wwwroot\\",
       "BasePath": "_content/MultiShop",
       "RelativePath": "assets/lib/owlcarousel/owl.carousel.min.js",
       "AssetKind": "All",

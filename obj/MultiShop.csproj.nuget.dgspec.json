@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\MultiShop.csproj": {}
+    "C:\\Users\\Hp\\Desktop\\MultiShop\\MultiShop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\MultiShop.csproj": {
+    "C:\\Users\\Hp\\Desktop\\MultiShop\\MultiShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\MultiShop.csproj",
+        "projectUniqueName": "C:\\Users\\Hp\\Desktop\\MultiShop\\MultiShop.csproj",
         "projectName": "MultiShop",
-        "projectPath": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\MultiShop.csproj",
-        "packagesPath": "C:\\Users\\ca.r214.05\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ca.r214.05\\Desktop\\MultiShop\\obj\\",
+        "projectPath": "C:\\Users\\Hp\\Desktop\\MultiShop\\MultiShop.csproj",
+        "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hp\\Desktop\\MultiShop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ca.r214.05\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -44,6 +44,16 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -63,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
