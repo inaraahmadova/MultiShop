@@ -1,0 +1,33 @@
+﻿@model List<GetSliderVM>
+<h5 class="card-title fw-semibold mb-4">Slider</h5>
+<a asp-action="Create" class="btn btn-outline-success m-1 float-end">Success</a>
+<div class="table-responsive">
+    <table class="table text-nowrap table-bordered mb-0 align-middle">
+        <thead class="text-dark fs-4">
+            
+        </thead>
+        <tbody>
+            @foreach(var data in Model)
+            {
+                <tr>
+                    <td class="border-bottom-0">
+                        @data.Title
+                    </td>
+                    <td class="border-bottom-0">
+                        <img src="@data.ImageUrl" width="50">
+                    </td>
+                    <td class="border-bottom-0">
+                        @data.Subtitle
+                    </td>
+                    <td class="border-bottom-0">
+                        <a asp-action="Update" asp-route="@data.Id" class="btn btn-danger">Edit</a>
+                        <a asp-action="Delete" asp-route="@data.Id" class="btn btn-warning">Delete</a>
+                    </td>
+                    <td class="border-bottom-0">
+                    </td>
+                </tr>
+            }
+
+        </tbody>
+    </table>
+</div>
