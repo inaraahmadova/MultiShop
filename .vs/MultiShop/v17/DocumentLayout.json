@@ -3,132 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\Hp\\Desktop\\MultiShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E8A83EF5-3D25-4F1A-AFFC-CF6E7CA091CB}|MultiShop.csproj|c:\\users\\hp\\desktop\\multishop\\viewmodels\\products\\getproductadminvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8A83EF5-3D25-4F1A-AFFC-CF6E7CA091CB}|MultiShop.csproj|solutionrelative:viewmodels\\products\\getproductadminvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{73FDBBC9-43D7-46BF-8573-E277D2EE83A1}|MultiShop\\MultiShop.csproj|c:\\users\\hp\\desktop\\multishop\\multishop\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73FDBBC9-43D7-46BF-8573-E277D2EE83A1}|MultiShop\\MultiShop.csproj|solutionrelative:multishop\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8A83EF5-3D25-4F1A-AFFC-CF6E7CA091CB}|MultiShop.csproj|c:\\users\\hp\\desktop\\multishop\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8A83EF5-3D25-4F1A-AFFC-CF6E7CA091CB}|MultiShop.csproj|solutionrelative:models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{73FDBBC9-43D7-46BF-8573-E277D2EE83A1}|MultiShop\\MultiShop.csproj|c:\\users\\hp\\desktop\\multishop\\multishop\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73FDBBC9-43D7-46BF-8573-E277D2EE83A1}|MultiShop\\MultiShop.csproj|solutionrelative:multishop\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8A83EF5-3D25-4F1A-AFFC-CF6E7CA091CB}|MultiShop.csproj|c:\\users\\hp\\desktop\\multishop\\models\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8A83EF5-3D25-4F1A-AFFC-CF6E7CA091CB}|MultiShop.csproj|solutionrelative:models\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{73FDBBC9-43D7-46BF-8573-E277D2EE83A1}|MultiShop\\MultiShop.csproj|c:\\users\\hp\\desktop\\multishop\\multishop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73FDBBC9-43D7-46BF-8573-E277D2EE83A1}|MultiShop\\MultiShop.csproj|solutionrelative:multishop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8A83EF5-3D25-4F1A-AFFC-CF6E7CA091CB}|MultiShop.csproj|c:\\users\\hp\\desktop\\multishop\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8A83EF5-3D25-4F1A-AFFC-CF6E7CA091CB}|MultiShop.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{73FDBBC9-43D7-46BF-8573-E277D2EE83A1}|MultiShop\\MultiShop.csproj|c:\\users\\hp\\desktop\\multishop\\multishop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73FDBBC9-43D7-46BF-8573-E277D2EE83A1}|MultiShop\\MultiShop.csproj|solutionrelative:multishop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8A83EF5-3D25-4F1A-AFFC-CF6E7CA091CB}|MultiShop.csproj|c:\\users\\hp\\desktop\\multishop\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8A83EF5-3D25-4F1A-AFFC-CF6E7CA091CB}|MultiShop.csproj|solutionrelative:areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{73FDBBC9-43D7-46BF-8573-E277D2EE83A1}|MultiShop\\MultiShop.csproj|c:\\users\\hp\\desktop\\multishop\\multishop\\viewmodels\\products\\getproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73FDBBC9-43D7-46BF-8573-E277D2EE83A1}|MultiShop\\MultiShop.csproj|solutionrelative:multishop\\viewmodels\\products\\getproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8A83EF5-3D25-4F1A-AFFC-CF6E7CA091CB}|MultiShop.csproj|c:\\users\\hp\\desktop\\multishop\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8A83EF5-3D25-4F1A-AFFC-CF6E7CA091CB}|MultiShop.csproj|solutionrelative:areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{73FDBBC9-43D7-46BF-8573-E277D2EE83A1}|MultiShop\\MultiShop.csproj|c:\\users\\hp\\desktop\\multishop\\multishop\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73FDBBC9-43D7-46BF-8573-E277D2EE83A1}|MultiShop\\MultiShop.csproj|solutionrelative:multishop\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8A83EF5-3D25-4F1A-AFFC-CF6E7CA091CB}|MultiShop.csproj|C:\\Users\\Hp\\Desktop\\MultiShop\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E8A83EF5-3D25-4F1A-AFFC-CF6E7CA091CB}|MultiShop.csproj|solutionrelative:areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{73FDBBC9-43D7-46BF-8573-E277D2EE83A1}|MultiShop\\MultiShop.csproj|c:\\users\\hp\\desktop\\multishop\\multishop\\models\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73FDBBC9-43D7-46BF-8573-E277D2EE83A1}|MultiShop\\MultiShop.csproj|solutionrelative:multishop\\models\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8A83EF5-3D25-4F1A-AFFC-CF6E7CA091CB}|MultiShop.csproj|C:\\Users\\Hp\\Desktop\\MultiShop\\viewmodels\\sliders\\createslidervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8A83EF5-3D25-4F1A-AFFC-CF6E7CA091CB}|MultiShop.csproj|solutionrelative:viewmodels\\sliders\\createslidervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{73FDBBC9-43D7-46BF-8573-E277D2EE83A1}|MultiShop\\MultiShop.csproj|c:\\users\\hp\\desktop\\multishop\\multishop\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73FDBBC9-43D7-46BF-8573-E277D2EE83A1}|MultiShop\\MultiShop.csproj|solutionrelative:multishop\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8A83EF5-3D25-4F1A-AFFC-CF6E7CA091CB}|MultiShop.csproj|C:\\Users\\Hp\\Desktop\\MultiShop\\areas\\admin\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E8A83EF5-3D25-4F1A-AFFC-CF6E7CA091CB}|MultiShop.csproj|solutionrelative:areas\\admin\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{73FDBBC9-43D7-46BF-8573-E277D2EE83A1}|MultiShop\\MultiShop.csproj|c:\\users\\hp\\desktop\\multishop\\multishop\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73FDBBC9-43D7-46BF-8573-E277D2EE83A1}|MultiShop\\MultiShop.csproj|solutionrelative:multishop\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8A83EF5-3D25-4F1A-AFFC-CF6E7CA091CB}|MultiShop.csproj|C:\\Users\\Hp\\Desktop\\MultiShop\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8A83EF5-3D25-4F1A-AFFC-CF6E7CA091CB}|MultiShop.csproj|solutionrelative:models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{73FDBBC9-43D7-46BF-8573-E277D2EE83A1}|MultiShop\\MultiShop.csproj|c:\\users\\hp\\desktop\\multishop\\multishop\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73FDBBC9-43D7-46BF-8573-E277D2EE83A1}|MultiShop\\MultiShop.csproj|solutionrelative:multishop\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8A83EF5-3D25-4F1A-AFFC-CF6E7CA091CB}|MultiShop.csproj|C:\\Users\\Hp\\Desktop\\MultiShop\\viewmodels\\sliders\\getslidervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8A83EF5-3D25-4F1A-AFFC-CF6E7CA091CB}|MultiShop.csproj|solutionrelative:viewmodels\\sliders\\getslidervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8A83EF5-3D25-4F1A-AFFC-CF6E7CA091CB}|MultiShop.csproj|C:\\Users\\Hp\\Desktop\\MultiShop\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E8A83EF5-3D25-4F1A-AFFC-CF6E7CA091CB}|MultiShop.csproj|solutionrelative:areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8A83EF5-3D25-4F1A-AFFC-CF6E7CA091CB}|MultiShop.csproj|C:\\Users\\Hp\\Desktop\\MultiShop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8A83EF5-3D25-4F1A-AFFC-CF6E7CA091CB}|MultiShop.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8A83EF5-3D25-4F1A-AFFC-CF6E7CA091CB}|MultiShop.csproj|C:\\Users\\Hp\\Desktop\\MultiShop\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E8A83EF5-3D25-4F1A-AFFC-CF6E7CA091CB}|MultiShop.csproj|solutionrelative:areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8A83EF5-3D25-4F1A-AFFC-CF6E7CA091CB}|MultiShop.csproj|C:\\Users\\Hp\\Desktop\\MultiShop\\dataacceslayer\\multishopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8A83EF5-3D25-4F1A-AFFC-CF6E7CA091CB}|MultiShop.csproj|solutionrelative:dataacceslayer\\multishopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8A83EF5-3D25-4F1A-AFFC-CF6E7CA091CB}|MultiShop.csproj|C:\\Users\\Hp\\Desktop\\MultiShop\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E8A83EF5-3D25-4F1A-AFFC-CF6E7CA091CB}|MultiShop.csproj|solutionrelative:areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8A83EF5-3D25-4F1A-AFFC-CF6E7CA091CB}|MultiShop.csproj|C:\\Users\\Hp\\Desktop\\MultiShop\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E8A83EF5-3D25-4F1A-AFFC-CF6E7CA091CB}|MultiShop.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8A83EF5-3D25-4F1A-AFFC-CF6E7CA091CB}|MultiShop.csproj|C:\\Users\\Hp\\Desktop\\MultiShop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8A83EF5-3D25-4F1A-AFFC-CF6E7CA091CB}|MultiShop.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8A83EF5-3D25-4F1A-AFFC-CF6E7CA091CB}|MultiShop.csproj|C:\\Users\\Hp\\Desktop\\MultiShop\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{E8A83EF5-3D25-4F1A-AFFC-CF6E7CA091CB}|MultiShop.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8A83EF5-3D25-4F1A-AFFC-CF6E7CA091CB}|MultiShop.csproj|C:\\Users\\Hp\\Desktop\\MultiShop\\viewmodels\\categories\\getcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8A83EF5-3D25-4F1A-AFFC-CF6E7CA091CB}|MultiShop.csproj|solutionrelative:viewmodels\\categories\\getcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8A83EF5-3D25-4F1A-AFFC-CF6E7CA091CB}|MultiShop.csproj|C:\\Users\\Hp\\Desktop\\MultiShop\\multishop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{E8A83EF5-3D25-4F1A-AFFC-CF6E7CA091CB}|MultiShop.csproj|solutionrelative:multishop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8A83EF5-3D25-4F1A-AFFC-CF6E7CA091CB}|MultiShop.csproj|C:\\Users\\Hp\\Desktop\\MultiShop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E8A83EF5-3D25-4F1A-AFFC-CF6E7CA091CB}|MultiShop.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8A83EF5-3D25-4F1A-AFFC-CF6E7CA091CB}|MultiShop.csproj|C:\\Users\\Hp\\Desktop\\MultiShop\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8A83EF5-3D25-4F1A-AFFC-CF6E7CA091CB}|MultiShop.csproj|solutionrelative:models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8A83EF5-3D25-4F1A-AFFC-CF6E7CA091CB}|MultiShop.csproj|C:\\Users\\Hp\\Desktop\\MultiShop\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8A83EF5-3D25-4F1A-AFFC-CF6E7CA091CB}|MultiShop.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8A83EF5-3D25-4F1A-AFFC-CF6E7CA091CB}|MultiShop.csproj|C:\\Users\\Hp\\Desktop\\MultiShop\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E8A83EF5-3D25-4F1A-AFFC-CF6E7CA091CB}|MultiShop.csproj|solutionrelative:views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8A83EF5-3D25-4F1A-AFFC-CF6E7CA091CB}|MultiShop.csproj|C:\\Users\\Hp\\Desktop\\MultiShop\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E8A83EF5-3D25-4F1A-AFFC-CF6E7CA091CB}|MultiShop.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8A83EF5-3D25-4F1A-AFFC-CF6E7CA091CB}|MultiShop.csproj|C:\\Users\\Hp\\Desktop\\MultiShop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E8A83EF5-3D25-4F1A-AFFC-CF6E7CA091CB}|MultiShop.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8A83EF5-3D25-4F1A-AFFC-CF6E7CA091CB}|MultiShop.csproj|C:\\Users\\Hp\\Desktop\\MultiShop\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E8A83EF5-3D25-4F1A-AFFC-CF6E7CA091CB}|MultiShop.csproj|solutionrelative:views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8A83EF5-3D25-4F1A-AFFC-CF6E7CA091CB}|MultiShop.csproj|C:\\Users\\Hp\\Desktop\\MultiShop\\Controllers\\ProductController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8A83EF5-3D25-4F1A-AFFC-CF6E7CA091CB}|MultiShop.csproj|solutionrelative:Controllers\\ProductController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8A83EF5-3D25-4F1A-AFFC-CF6E7CA091CB}|MultiShop.csproj|C:\\Users\\Hp\\Desktop\\MultiShop\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E8A83EF5-3D25-4F1A-AFFC-CF6E7CA091CB}|MultiShop.csproj|solutionrelative:views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8A83EF5-3D25-4F1A-AFFC-CF6E7CA091CB}|MultiShop.csproj|C:\\Users\\Hp\\Desktop\\MultiShop\\Migrations\\20240511141720_CategoriesTableCreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8A83EF5-3D25-4F1A-AFFC-CF6E7CA091CB}|MultiShop.csproj|solutionrelative:Migrations\\20240511141720_CategoriesTableCreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8A83EF5-3D25-4F1A-AFFC-CF6E7CA091CB}|MultiShop.csproj|C:\\Users\\Hp\\Desktop\\MultiShop\\Migrations\\20240511180951_CreatedSlidersTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8A83EF5-3D25-4F1A-AFFC-CF6E7CA091CB}|MultiShop.csproj|solutionrelative:Migrations\\20240511180951_CreatedSlidersTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{73FDBBC9-43D7-46BF-8573-E277D2EE83A1}|MultiShop\\MultiShop.csproj|c:\\users\\hp\\desktop\\multishop\\multishop\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73FDBBC9-43D7-46BF-8573-E277D2EE83A1}|MultiShop\\MultiShop.csproj|solutionrelative:multishop\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -138,397 +54,150 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GetProductAdminVM.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\MultiShop\\ViewModels\\Products\\GetProductAdminVM.cs",
-              "RelativeDocumentMoniker": "ViewModels\\Products\\GetProductAdminVM.cs",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\MultiShop\\ViewModels\\Products\\GetProductAdminVM.cs",
-              "RelativeToolTip": "ViewModels\\Products\\GetProductAdminVM.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T17:36:59.805Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductImage.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\MultiShop\\Models\\ProductImage.cs",
-              "RelativeDocumentMoniker": "Models\\ProductImage.cs",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\MultiShop\\Models\\ProductImage.cs",
-              "RelativeToolTip": "Models\\ProductImage.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T17:36:05.78Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ProductCategory.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\MultiShop\\Models\\ProductCategory.cs",
-              "RelativeDocumentMoniker": "Models\\ProductCategory.cs",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\MultiShop\\Models\\ProductCategory.cs",
-              "RelativeToolTip": "Models\\ProductCategory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T17:35:22.516Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\MultiShop\\MultiShop\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MultiShop\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\MultiShop\\MultiShop\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MultiShop\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T19:29:11.615Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\MultiShop\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Models\\Product.cs",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\MultiShop\\Models\\Product.cs",
-              "RelativeToolTip": "Models\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAXAAAA",
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\MultiShop\\MultiShop\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MultiShop\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\MultiShop\\MultiShop\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MultiShop\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T17:34:08.725Z",
+              "WhenOpened": "2024-05-13T19:29:07.279Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\MultiShop\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\MultiShop\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Areas\\Admin\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAARAAAA",
+              "Title": "GetProductVM.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\MultiShop\\MultiShop\\ViewModels\\Products\\GetProductVM.cs",
+              "RelativeDocumentMoniker": "MultiShop\\ViewModels\\Products\\GetProductVM.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\MultiShop\\MultiShop\\ViewModels\\Products\\GetProductVM.cs",
+              "RelativeToolTip": "MultiShop\\ViewModels\\Products\\GetProductVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T17:31:47.342Z",
+              "WhenOpened": "2024-05-13T19:26:09.294Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\MultiShop\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Slider\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\MultiShop\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Slider\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAADAAAA",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\MultiShop\\MultiShop\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "MultiShop\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\MultiShop\\MultiShop\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "MultiShop\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-11T18:46:29.317Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SliderController.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\MultiShop\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\SliderController.cs",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\MultiShop\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "RelativeToolTip": "Areas\\Admin\\Controllers\\SliderController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T17:22:04.233Z",
+              "WhenOpened": "2024-05-13T19:23:32.292Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "GetSliderVM.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\MultiShop\\ViewModels\\Sliders\\GetSliderVM.cs",
-              "RelativeDocumentMoniker": "ViewModels\\Sliders\\GetSliderVM.cs",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\MultiShop\\ViewModels\\Sliders\\GetSliderVM.cs",
-              "RelativeToolTip": "ViewModels\\Sliders\\GetSliderVM.cs",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\MultiShop\\MultiShop\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "MultiShop\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\MultiShop\\MultiShop\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "MultiShop\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T19:23:09.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductCategory.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\MultiShop\\MultiShop\\Models\\ProductCategory.cs",
+              "RelativeDocumentMoniker": "MultiShop\\Models\\ProductCategory.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\MultiShop\\MultiShop\\Models\\ProductCategory.cs",
+              "RelativeToolTip": "MultiShop\\Models\\ProductCategory.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T21:07:36.39Z"
+              "WhenOpened": "2024-05-13T19:15:39.983Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "CreateSliderVM.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\MultiShop\\ViewModels\\Sliders\\CreateSliderVM.cs",
-              "RelativeDocumentMoniker": "ViewModels\\Sliders\\CreateSliderVM.cs",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\MultiShop\\ViewModels\\Sliders\\CreateSliderVM.cs",
-              "RelativeToolTip": "ViewModels\\Sliders\\CreateSliderVM.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Title": "ProductImage.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\MultiShop\\MultiShop\\Models\\ProductImage.cs",
+              "RelativeDocumentMoniker": "MultiShop\\Models\\ProductImage.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\MultiShop\\MultiShop\\Models\\ProductImage.cs",
+              "RelativeToolTip": "MultiShop\\Models\\ProductImage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T18:12:48.617Z"
+              "WhenOpened": "2024-05-13T19:02:41.163Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Slider.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\MultiShop\\Models\\Slider.cs",
-              "RelativeDocumentMoniker": "Models\\Slider.cs",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\MultiShop\\Models\\Slider.cs",
-              "RelativeToolTip": "Models\\Slider.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\MultiShop\\MultiShop\\Models\\Slider.cs",
+              "RelativeDocumentMoniker": "MultiShop\\Models\\Slider.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\MultiShop\\MultiShop\\Models\\Slider.cs",
+              "RelativeToolTip": "MultiShop\\Models\\Slider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T17:56:47.879Z"
+              "WhenOpened": "2024-05-13T18:59:10.951Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\MultiShop\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Slider\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\MultiShop\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Slider\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-11T17:22:34.019Z"
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\MultiShop\\MultiShop\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "MultiShop\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\MultiShop\\MultiShop\\Models\\Product.cs",
+              "RelativeToolTip": "MultiShop\\Models\\Product.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T18:58:11.853Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\MultiShop\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\MultiShop\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-11T15:28:18.972Z"
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\MultiShop\\MultiShop\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MultiShop\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\MultiShop\\MultiShop\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "MultiShop\\DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T19:05:27.998Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\MultiShop\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\MultiShop\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "DocumentIndex": 8,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\MultiShop\\MultiShop\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "MultiShop\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\MultiShop\\MultiShop\\Models\\Category.cs",
+              "RelativeToolTip": "MultiShop\\Models\\Category.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T07:38:54.376Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\MultiShop\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\MultiShop\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-11T15:27:05.754Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "20240511180951_CreatedSlidersTable.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\MultiShop\\Migrations\\20240511180951_CreatedSlidersTable.cs",
-              "RelativeDocumentMoniker": "Migrations\\20240511180951_CreatedSlidersTable.cs",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\MultiShop\\Migrations\\20240511180951_CreatedSlidersTable.cs",
-              "RelativeToolTip": "Migrations\\20240511180951_CreatedSlidersTable.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T18:09:51.705Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\MultiShop\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\MultiShop\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-11T15:26:37.771Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "MultiShopContext.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\MultiShop\\DataAccesLayer\\MultiShopContext.cs",
-              "RelativeDocumentMoniker": "DataAccesLayer\\MultiShopContext.cs",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\MultiShop\\DataAccesLayer\\MultiShopContext.cs",
-              "RelativeToolTip": "DataAccesLayer\\MultiShopContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T19:22:24.389Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\MultiShop\\ScaffoldingReadMe.txt",
-              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\MultiShop\\ScaffoldingReadMe.txt",
-              "RelativeToolTip": "ScaffoldingReadMe.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-05-11T15:23:17.91Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\MultiShop\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\MultiShop\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-11T15:14:09.734Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "GetCategoryVM.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\MultiShop\\ViewModels\\Categories\\GetCategoryVM.cs",
-              "RelativeDocumentMoniker": "ViewModels\\Categories\\GetCategoryVM.cs",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\MultiShop\\ViewModels\\Categories\\GetCategoryVM.cs",
-              "RelativeToolTip": "ViewModels\\Categories\\GetCategoryVM.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T15:14:10.575Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "20240511141720_CategoriesTableCreated.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\MultiShop\\Migrations\\20240511141720_CategoriesTableCreated.cs",
-              "RelativeDocumentMoniker": "Migrations\\20240511141720_CategoriesTableCreated.cs",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\MultiShop\\Migrations\\20240511141720_CategoriesTableCreated.cs",
-              "RelativeToolTip": "Migrations\\20240511141720_CategoriesTableCreated.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T14:17:20.49Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\MultiShop\\Models\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "Models\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\MultiShop\\Models\\BaseEntity.cs",
-              "RelativeToolTip": "Models\\BaseEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T13:45:00.893Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\MultiShop\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\MultiShop\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T07:38:17.813Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "MultiShop",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\MultiShop\\MultiShop.csproj",
-              "RelativeDocumentMoniker": "MultiShop.csproj",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\MultiShop\\MultiShop.csproj",
-              "RelativeToolTip": "MultiShop.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-11T15:14:10.463Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\MultiShop\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "Models\\Category.cs",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\MultiShop\\Models\\Category.cs",
-              "RelativeToolTip": "Models\\Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T13:44:49.931Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\MultiShop\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\MultiShop\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-11T13:40:19.124Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Contact.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\MultiShop\\Views\\Home\\Contact.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Contact.cshtml",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\MultiShop\\Views\\Home\\Contact.cshtml",
-              "RelativeToolTip": "Views\\Home\\Contact.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAADUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-07T08:27:50.268Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\MultiShop\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\MultiShop\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAOcAAAAAAAAAAAAIwAUBAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-07T07:41:45.891Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\MultiShop\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\MultiShop\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Views\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-07T07:50:27.277Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\MultiShop\\Views\\Product\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Product\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\MultiShop\\Views\\Product\\Index.cshtml",
-              "RelativeToolTip": "Views\\Product\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJEAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-07T09:22:50.094Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\MultiShop\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\MultiShop\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Controllers\\ProductController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T08:38:24.633Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "Detail.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\MultiShop\\Views\\Product\\Detail.cshtml",
-              "RelativeDocumentMoniker": "Views\\Product\\Detail.cshtml",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\MultiShop\\Views\\Product\\Detail.cshtml",
-              "RelativeToolTip": "Views\\Product\\Detail.cshtml",
-              "ViewState": "AQIAAGgBAAAAAAAAAAAwwI8BAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-07T09:27:08.787Z"
+              "WhenOpened": "2024-05-13T18:59:09.046Z",
+              "EditorCaption": ""
             }
           ]
         }
